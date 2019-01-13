@@ -10,7 +10,7 @@ Quantumult 是在 iOS 平台上的客户端软件，支持 Shadowsocks、Shadows
 
 以下是各平台该应用的下载地址。
 
-- Apple iOS：[Apple Store](https://itunes.apple.com/us/app/quantumult/id1252015438?ls=1&mt=8)
+- Apple iOS：[App Store](https://itunes.apple.com/us/app/quantumult/id1252015438?ls=1&mt=8)
 - ...
 
 ## 配置方案
@@ -23,7 +23,7 @@ Quantumult 是在 iOS 平台上的客户端软件，支持 Shadowsocks、Shadows
 
 此处将显示您的订阅链接，请注意为登录状态：
 
-[cinwell website](/sublink?type=quantumult_sub ':ignore :include :type=markdown')
+[cinwell website](/sublink?type=quantumult_sub ':include :type=markdown')
 
 !> 这个 **订阅链接** 非常重要，你应当把它当做密码一样妥善保管。
 
@@ -38,6 +38,8 @@ Quantumult 是在 iOS 平台上的客户端软件，支持 Shadowsocks、Shadows
 ![3](https://i.loli.net/2019/01/11/5c3828b395d90.png ':size=200')
 
 在「名称」中输入本站名称并保存，随后在「链接」中粘贴上方 **[获取订阅](#获取订阅)** 中您需要使用的订阅类型并保存。
+
+请优先使用个人端口，如无法连接或者未取得节点再尝试公共端口。
 
 ![4](https://i.loli.net/2019/01/11/5c382b0171a12.jpeg ':size=600')
 
