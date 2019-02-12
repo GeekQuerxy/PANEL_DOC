@@ -1,6 +1,8 @@
 * Android
 
   * [在 ClashA 上配置](Android/ClashA.md)
+  * [在 V2rayNG 上配置](Android/V2rayNG.md)
+  * [在 BifrostV 上配置](Android/BifrostV.md)
   * [在 Surfboard 上配置](Android/Surfboard.md)
   * [在 Shadowsocks 上配置](Android/Shadowsocks.md)
   * [在 ShadowsocksR 上配置](Android/ShadowsocksR.md)
