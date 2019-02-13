@@ -6,10 +6,12 @@ Shadowsocks 是在 Android 平台上的客户端软件，支持 Shadowsocks 协�
 
 以下是各平台该应用的下载地址。
 
-- Android：[SS 必装](https://github.com/shadowsocks/shadowsocks-android/releases)
-- Android：[V2ray-plugin-Android 可选](https://github.com/shadowsocks/v2ray-plugin-android/releases)
-- Android：[Simple-obfs-Android 可选](https://github.com/shadowsocks/simple-obfs-android/releases)
+- Android：[Shadowsocks](https://github.com/shadowsocks/shadowsocks-android/releases)
+- Android：[V2ray-plugin-Android](https://github.com/shadowsocks/v2ray-plugin-android/releases)
+- Android：[Simple-obfs-Android](https://github.com/shadowsocks/simple-obfs-android/releases)
 - ...
+
+*请注意，为了使用的便捷，请务必安装上面 3 个 APP。*
 
 ## 获取节点
 
