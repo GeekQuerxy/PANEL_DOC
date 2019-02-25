@@ -30,5 +30,6 @@
 
 * Router
 
-  * [在 Merlin 上配置](Router/Merlin.md)
+  * [在 KoolClash 上配置](Router/KoolClash.md)
+  * [在 Koolshare Merlin 上配置](Router/Merlin.md)
 
