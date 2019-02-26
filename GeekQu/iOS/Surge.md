@@ -13,14 +13,6 @@ Surge 是在 iOS 平台上的客户端软件，支持 Shadowsocks 协议。
 - Apple iOS：[App Store](https://itunes.apple.com/us/app/surge-3/id1442620678?ls=1&mt=8)
 - ...
 
-## 获取订阅
-
-此处将显示您的订阅链接，请注意为登录状态：
-
-[cinwell website](/sublink?type=surge ':include :type=markdown')
-
-!> 这个 **订阅链接** 非常重要，你应当把它当做密码一样妥善保管。
-
 ## 配置 Surge
 
 打开 Surge 3 点击左上角的「Default」进入配置管理页面。
@@ -29,7 +21,7 @@ Surge 是在 iOS 平台上的客户端软件，支持 Shadowsocks 协议。
 
 ![1](https://i.loli.net/2019/01/13/5c3a65cd0e3f1.jpeg ':size=400')
 
-点击下方的「从 URL 下载配置」，在弹出的输入框中粘贴上方 **[获取订阅](#获取订阅)** 中您对应的 Surge 版本的订阅链接并点击 **好的**，此时 APP 会自动下载并切换到该配置。
+点击下方的「从 URL 下载配置」，在弹出的输入框中粘贴您的订阅链接并点击 **好的**，此时 APP 会自动下载并切换到该配置。
 
 ![2](https://i.loli.net/2019/01/13/5c3a67a51a561.jpeg ':size=400')
 
@@ -47,7 +39,7 @@ Surge 3 点击底部导航栏中的「策略组」进入策略组页面。
 
 或打开 Surge 2 点击底部导航栏的「配置」进入配置页面。
 
-在 🍃 Proxy 策略组中选择 🏃 Auto。
+在策略组中选择您中意的节点。
 
 随后回到首页点击 **开关** 或 **启动**。
 

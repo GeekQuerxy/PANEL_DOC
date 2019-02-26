@@ -9,21 +9,13 @@ V2rayNG 是在 Android 平台上的客户端软件，支持 VMess 及 Shadowsock
 - Android：[V2rayNG](https://github.com/2dust/v2rayNG/releases)
 - ...
 
-## 获取订阅
-
-此处将显示您的订阅链接，请注意为登录状态：
-
-[cinwell website](/sublink?type=kitsunebi ':include :type=markdown')
-
-!> 这个 **订阅链接** 非常重要，你应当把它当做密码一样妥善保管。
-
 ## 配置 V2rayNG
 
 打开 V2rayNG 点击左上角的菜单图标打开侧边栏，随后点击 **订阅设置**。
 
 ![1](https://i.loli.net/2019/02/13/5c62fd8327c0e.png ':size=600')
 
-点击右上角的加号按钮，在新页面的备注中填写本站名称，地址输入框中粘贴上方 **[获取订阅](#获取订阅)** 中的订阅链接并点击右上角的 **√**。
+点击右上角的加号按钮，在新页面的备注中填写随意名称，地址输入框中粘贴您的订阅链接并点击右上角的 **√**。
 
 ![2](https://i.loli.net/2019/02/13/5c62fef253cd4.jpg ':size=200')
 

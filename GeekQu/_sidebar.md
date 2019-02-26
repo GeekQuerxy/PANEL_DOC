@@ -1,6 +1,5 @@
 * Android
 
-  * [在 ClashA 上配置](Android/ClashA.md)
   * [在 V2rayNG 上配置](Android/V2rayNG.md)
   * [在 BifrostV 上配置](Android/BifrostV.md)
   * [在 Surfboard 上配置](Android/Surfboard.md)
@@ -13,7 +12,6 @@
   * [在 Surge 上配置](iOS/Surge.md)
   * [在 Kitsunebi 上配置](iOS/Kitsunebi.md)
   * [在 Quantumult 上配置](iOS/Quantumult_sub.md)
-    * [导入 Quantumult 完整配置](iOS/Quantumult_conf.md)
   * [在 Shadowrocket 上配置](iOS/Shadowrocket.md)
 
 * Windows

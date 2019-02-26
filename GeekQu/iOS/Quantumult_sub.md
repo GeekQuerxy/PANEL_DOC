@@ -17,16 +17,6 @@ Quantumult 是在 iOS 平台上的客户端软件，支持 Shadowsocks、Shadows
 
 此文中讲述在 Quantumult 中配置 SSR、V2ray、分流规则订阅。
 
-如您需要更细化的配置，如使用策略组等，请 **[点此查阅](/iOS/Quantumult_conf.md)** 相关的使用方案，否则请往下继续。
-
-## 获取订阅
-
-此处将显示您的订阅链接，请注意为登录状态：
-
-[cinwell website](/sublink?type=quantumult_sub ':include :type=markdown')
-
-!> 这个 **订阅链接** 非常重要，你应当把它当做密码一样妥善保管。
-
 ## 配置 Quantumult
 
 打开 Quantumult，点击底部导航栏的「设置」进入设置页面。
@@ -37,7 +27,7 @@ Quantumult 是在 iOS 平台上的客户端软件，支持 Shadowsocks、Shadows
 
 ![3](https://i.loli.net/2019/01/11/5c3828b395d90.png ':size=200')
 
-在「名称」中输入本站名称并保存，随后在「链接」中粘贴上方 **[获取订阅](#获取订阅)** 中您需要使用的订阅类型并保存。
+在「名称」中输入随意名称并保存，随后在「链接」中粘贴您的订阅链接并保存。
 
 ![4](https://i.loli.net/2019/01/11/5c382b0171a12.jpeg ':size=600')
 
@@ -57,6 +47,6 @@ Quantumult 是在 iOS 平台上的客户端软件，支持 Shadowsocks、Shadows
 
 ## 开始使用
 
-回到 Quantumult 主页，点击底部导航栏的 **圆 logo** 图标，选择您需要的节点，随后打开右上角开关即可。
+回到 Quantumult 主页，点击底部导航栏的 **圆 logo** 图标，选择您中意的节点，随后打开右上角开关即可。
 
 如提示添加 VPN 配置，请点击 Allow 并验证您的 密码、Touch ID、Face ID 。

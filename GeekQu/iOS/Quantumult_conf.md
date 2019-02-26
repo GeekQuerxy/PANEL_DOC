@@ -19,14 +19,6 @@ Quantumult 是在 iOS 平台上的客户端软件，支持 Shadowsocks、Shadows
 
 如您想使用更简化的配置，请 **[点此查阅](/iOS/Quantumult_sub.md)** 相关的使用方案，否则请往下继续。
 
-## 获取订阅
-
-此处将显示您的订阅链接，请注意为登录状态：
-
-[cinwell website](/sublink?type=quantumult_conf ':include :type=markdown')
-
-!> 这个 **订阅链接** 非常重要，你应当把它当做密码一样妥善保管。
-
 ## 配置 Quantumult
 
 在 **个人中心** 页面中我们提供了一键导入的方法，您可以在用户中心点击如下两个按钮一键导入。

@@ -13,14 +13,6 @@ Kitsunebi 是在 iOS 平台上的客户端软件，支持 Shadowsocks 以及 VMe
 - Apple iOS：[App Store](https://itunes.apple.com/us/app/kitsunebi-proxy-utility/id1446584073?ls=1&mt=8)
 - ...
 
-## 获取订阅
-
-此处将显示您的订阅链接，请注意为登录状态：
-
-[cinwell website](/sublink?type=kitsunebi ':include :type=markdown')
-
-!> 这个 **订阅链接** 非常重要，你应当把它当做密码一样妥善保管。
-
 ## 配置 Kitsunebi
 
 打开 Kitsunebi，点击底部导航栏的「服务器」进入服务器页面。
@@ -29,7 +21,7 @@ Kitsunebi 是在 iOS 平台上的客户端软件，支持 Shadowsocks 以及 VMe
 
 点击右上角的加号，从弹出菜单中选择第四个「订阅」。
 
-在「备注」中输入本站名称，随后在「URL」中粘贴上方 **[获取订阅](#获取订阅)** 中您需要使用的订阅类型，打开自动更新的开关，随后点击右上角储存。
+在「备注」中输入随意名称，随后在「URL」中粘贴您的订阅链接，打开自动更新的开关，随后点击右上角储存。
 
 ![2](https://i.loli.net/2019/01/13/5c3a6e474ae9f.jpeg ':size=400')
 
@@ -43,6 +35,6 @@ Kitsunebi 是在 iOS 平台上的客户端软件，支持 Shadowsocks 以及 VMe
 
 ## 开始使用
 
-在下方订阅组中选择您需要的节点，随后点击底部导航栏的「状态」进入状态页面，打开开关即可。
+在下方订阅组中选择您中意的节点，随后点击底部导航栏的「状态」进入状态页面，打开开关即可。
 
 如提示添加 VPN 配置，请点击 Allow 并验证您的 密码、Touch ID、Face ID 。

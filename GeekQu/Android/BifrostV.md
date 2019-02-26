@@ -11,21 +11,13 @@ BifrostV 是在 Android 平台上的客户端软件，支持 VMess 及 Shadowsoc
 
 *请注意，官方仅有 Google Play 下载地址，您可能需要先进行科学下载才能使用该客户端。*
 
-## 获取订阅
-
-此处将显示您的订阅链接，请注意为登录状态：
-
-[cinwell website](/sublink?type=kitsunebi ':include :type=markdown')
-
-!> 这个 **订阅链接** 非常重要，你应当把它当做密码一样妥善保管。
-
 ## 配置 BifrostV
 
 打开 BifrostV 点击左上角的加号图标选择 **导入**，随后点击 **从 URL 导入**。
 
 ![1](https://i.loli.net/2019/02/13/5c63064d21248.png ':size=600')
 
-在弹出的输入框中粘贴上方 **[获取订阅](#获取订阅)** 中的订阅链接并点击 **好的**。
+在弹出的输入框中粘贴您的订阅链接并点击 **好的**。
 
 ![2](https://i.loli.net/2019/02/13/5c6306e90f89f.png ':size=200')
 

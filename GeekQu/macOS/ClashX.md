@@ -11,21 +11,13 @@ ClashX 是一个拥有 GUI 界面基于 Clash 可自定义规则的 macOS 代理
 - macOS：[ClashX](https://github.com/yichengchen/clashX/releases)
 - ...
 
-## 获取订阅
-
-此处将显示您的订阅链接，请注意为登录状态：
-
-[cinwell website](/sublink?type=clash ':include :type=markdown')
-
-!> 这个 **订阅链接** 非常重要，你应当把它当做密码一样妥善保管。
-
 ## 配置 ClashX
 
 打开 ClashX，此时会提示您需要安装一个小工具，点击 **安装** 随后输入 macOS 账户密码即可。
 
 ![1](https://i.loli.net/2019/02/12/5c624d9f8a0cc.png ':size=400')
 
-点击菜单栏中 ClashX 的图标，选择 配置 => 托管配置 => 设置地址，粘贴上方 **[获取订阅](#获取订阅)** 中的订阅链接。
+点击菜单栏中 ClashX 的图标，选择 配置 => 托管配置 => 设置地址，粘贴您的订阅链接。
 
 ![2](https://i.loli.net/2019/02/12/5c624f10ac02e.png ':size=400')
 
@@ -37,4 +29,4 @@ ClashX 是一个拥有 GUI 界面基于 Clash 可自定义规则的 macOS 代理
 
 ## 开始使用
 
-点击菜单栏中 ClashX 的图标，然后在下方的 **Proxy 策略组** 中选择 AUTO 或者你中意的节点即可。
+点击菜单栏中 ClashX 的图标，然后在下方的 **策略组** 中选择你中意的节点即可。
