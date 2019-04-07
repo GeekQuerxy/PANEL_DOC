@@ -41,3 +41,7 @@ Clash for Windows 是一个拥有 GUI 界面基于 Clash 可自定义规则的 W
 
 打开 Clash for Windows，从侧边栏进入 **Proxies**，上方选择 **Rule**，然后在下方的 **Proxy 策略组** 中选择 AUTO 或者你中意的节点即可。
 
+## 其他注意
+
+请不要修改 `~/.config/clash/` 中的 config.yml，否则可能会导致应用异常。
+

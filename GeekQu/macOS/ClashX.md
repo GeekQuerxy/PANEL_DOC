@@ -38,3 +38,8 @@ ClashX 是一个拥有 GUI 界面基于 Clash 可自定义规则的 macOS 代理
 ## 开始使用
 
 点击菜单栏中 ClashX 的图标，然后在下方的 **Proxy 策略组** 中选择 AUTO 或者你中意的节点即可。
+
+## 其他注意
+
+请不要修改 `~/.config/clash/` 中的 config.yml，否则可能会导致应用异常。
+
