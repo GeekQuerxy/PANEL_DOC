@@ -43,5 +43,5 @@ Clash for Windows 是一个拥有 GUI 界面基于 Clash 可自定义规则的 W
 
 ## 其他注意
 
-请不要修改 `~/.config/clash/` 中的 config.yml，否则可能会导致应用异常。
+请不要修改 `~/.config/clash/config.yml` 中的端口配置，否则会导致应用异常。
 
