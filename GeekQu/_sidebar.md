@@ -32,3 +32,6 @@
   * [在 KoolClash 上配置](Router/KoolClash.md)
   * [在 Koolshare Merlin 上配置](Router/Merlin.md)
 
+* 扩展配置
+
+  * [自定义 Clash 配置](Advanced/Clash.md)
