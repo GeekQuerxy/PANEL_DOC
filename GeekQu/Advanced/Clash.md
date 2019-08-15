@@ -57,7 +57,7 @@ ProxyGroup:
   type: url-test # 支持 Clash 所有的 type 类型
   content:  # 从 3 级的节点中筛选香港节点
     class: 3
-    regex: '/(香港)/i'
+    regex: '(香港)'
   url: http://www.qualcomm.cn/generate_204
   interval: 3600
 
@@ -65,35 +65,35 @@ ProxyGroup:
   type: url-test
   content:  # 从非 0 级的节点中筛选日本节点
     noclass: 0
-    regex: '/(日本)/i'
+    regex: '(日本)'
   url: http://www.qualcomm.cn/generate_204
   interval: 3600
 
 - name: '坡坡'
   type: url-test
   content:  # 从所有节点中筛选新加坡节点
-    regex: '/(新加坡)/i'
+    regex: '(新加坡)'
   url: http://www.qualcomm.cn/generate_204
   interval: 3600
 
 - name: '美国'
   type: url-test
   content:
-    regex: '/(美国)/i'
+    regex: '(美国)'
   url: http://www.qualcomm.cn/generate_204
   interval: 3600
 
 - name: '台湾'
   type: url-test
   content:
-    regex: '/(台湾)/i'
+    regex: '(台湾)'
   url: http://www.qualcomm.cn/generate_204
   interval: 3600
 
 - name: '韩国'
   type: url-test
   content:  # 从所有节点中筛选韩国节点，并在筛选的节点后面加上 right-proxies 中的节点
-    regex: '/(韩国)/i'
+    regex: '(韩国)'
     right-proxies:
       - '韩国自建 1'
       - '韩国自建 2'
@@ -103,7 +103,7 @@ ProxyGroup:
 - name: '中继'
   type: fallback
   content:  # 从所有节点中筛选中继节点，并在筛选的节点前面加上 left-proxies 中的节点
-    regex: '/(中国|回国)/i'
+    regex: '(中国|回国)'
     left-proxies:
       - '自购国内中继'
   url: http://www.qualcomm.cn/generate_204
@@ -166,7 +166,7 @@ ProxyGroup:
 Rule:
   # 加载远程规则，仅支持一个远程规则
   # 使用神机规则或从其他完整配置中获取规则，需为标准 YAML 格式
-  source: https://github.com/ConnersHua/Profiles/raw/master/Clash/Pro.yaml
+  # source: https://github.com/ConnersHua/Profiles/raw/master/Clash/Pro.yaml
   # 或自行提供规则
-  # source: https://gist.github.com/GeekQu/6fdb445a02035ed972c360e3511fa113/raw/Rule.yaml
+  source: https://gist.github.com/GeekQu/6fdb445a02035ed972c360e3511fa113/raw/Rule.yaml
 ```
