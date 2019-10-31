@@ -20,6 +20,7 @@
   * [在 Shadowsocks 上配置](Windows/Shadowsocks.md)
   * [在 ShadowsocksD 上配置](Windows/ShadowsocksD.md)
   * [在 ShadowsocksR 上配置](Windows/ShadowsocksR.md)
+  * [在 SSTap 上配置](Windows/SSTap.md)
   * [在 Clash for Windows 上配置](Windows/Clash-for-Windows.md)
 
 * macOS
