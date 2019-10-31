@@ -1,6 +1,6 @@
 <blockquote>
 <p>SSTAP利用虚拟网卡将SSR转换为类似于VPN一样的全局代理，能同时转发TCP、UDP数据包。<strong>非常适合于游戏玩家使用。</strong></p></blockquote>
-<h2 id="获取订阅链接"><a href="#/winsstap?id=%e8%8e%b7%e5%8f%96%e8%ae%a2%e9%98%85%e9%93%be%e6%8e%a5" data-id="获取订阅链接" class="anchor"><span>获取订阅链接</span></a></h2><p>打开cuyun官网，在<a href="https://www.996icu.tv/user" target="_blank">用户中心</a>可以查看自己的订阅链接，点击拷贝。</p><p><img src="https://www.996icu.tv/images/help/winssr-01.png" data-origin="https://www.996icu.tv/images/help/winssr-01.png" alt="" class="medium-zoom-image"></p><h2 id="客户端安装"><a href="#/winsstap?id=%e5%ae%a2%e6%88%b7%e7%ab%af%e5%ae%89%e8%a3%85" data-id="客户端安装" class="anchor"><span>客户端安装</span></a></h2><ul>
+<h2 id="获取订阅链接"><a href="#/Windows/SSTap?id=%e8%8e%b7%e5%8f%96%e8%ae%a2%e9%98%85%e9%93%be%e6%8e%a5" data-id="获取订阅链接" class="anchor"><span>获取订阅链接</span></a></h2><p>打开uucloud官网，在<a href="https://www.uucloud.xyz/user" target="_blank">用户中心</a>可以查看自己的订阅链接，点击拷贝。</p><p><img src="https://www.996icu.tv/images/help/winssr-01.png" data-origin="https://www.996icu.tv/images/help/winssr-01.png" alt="" class="medium-zoom-image"></p><h2 id="客户端安装"><a href="#/Windows/SSTap?id=%e5%ae%a2%e6%88%b7%e7%ab%af%e5%ae%89%e8%a3%85" data-id="客户端安装" class="anchor"><span>客户端安装</span></a></h2><ul>
 <li>SSTAP-个人版  适合科学上网用户，包含全局代理规则，<strong>推荐使用此版本。</strong></li>
 <li>SSTAP-游戏版  适合游戏用户，包含各种游戏加速规则，专业玩家使用。</li>
 </ul>
