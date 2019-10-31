@@ -9,6 +9,7 @@
 
 * iOS
 
+  * [在 Shadowrocket 上配置](iOS/Shadowrocket.md)
   * [在 Surge 上配置](iOS/Surge.md)
   * [在 Kitsunebi 上配置](iOS/Kitsunebi.md)
   * [在 Quantumult 上配置](iOS/Quantumult_sub.md)
