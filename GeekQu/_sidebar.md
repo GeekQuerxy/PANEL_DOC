@@ -25,6 +25,7 @@
 
 * macOS
 
+  * [在 ShadowsocksR 上配置](macOS/ShadowsocksR.md)
   * [在 Surge 上配置](macOS/Surge.md)
   * [在 ClashX 上配置](macOS/ClashX.md)
 
