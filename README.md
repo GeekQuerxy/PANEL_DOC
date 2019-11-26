@@ -1,6 +1,6 @@
 ## 简介
 
-此仓库为 [GeekQu/ss-panel-v3-mod_Uim](https://github.com/GeekQu/ss-panel-v3-mod_Uim) 提供协议客户端的使用文档支持。
+此仓库为禽兽云提供协议客户端的使用文档支持。
 
 ## 其他
 
@@ -9,4 +9,4 @@
 
 ## License
 
-[MIT License](https://github.com/GeekQu/PANEL_DOC/blob/master/LICENSE)
+[MIT License](https://github.com/GeekQu/PANEL_DOC/blob/master/LICENSE
