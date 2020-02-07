@@ -8,7 +8,7 @@ ClashR for Windows 是基于 Clash 上修改的代理软件，功能上跟clash�
 
 以下是各平台该应用的下载地址。
 
-- Windows：[ClashR for Windows](/ssr-download/ClashR-Windows.7z)
+- Windows：[ClashR for Windows](https://raw.githubusercontent.com/aipeach/ssr-download/master/ClashR-Windows.7z)
 - ...
 
 ## 获取订阅
