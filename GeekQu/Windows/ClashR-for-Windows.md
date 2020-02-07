@@ -1,27 +1,27 @@
 ## 应用概述
 
-Clash for Windows 是一个拥有 GUI 界面基于 Clash 可自定义规则的 Windows 代理应用。
+ClashR for Windows 是基于 Clash 上修改的代理软件，功能上跟clash没区别，增加了对SSR的支持。
 
-支持 Shadowsocks 协议和其 simple-obfs 插件、v2ray-plugin 插件以及 VMess 协议和其 TCP、WebSocket 等传输方式。
+支持 Shadowsocks 、ShadowsocksR协议和其 simple-obfs 插件、v2ray-plugin 插件以及 VMess 协议和其 TCP、WebSocket 等传输方式。
 
 ## 应用下载
 
 以下是各平台该应用的下载地址。
 
-- Windows：[Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+- Windows：[ClashR for Windows](/ssr-download/ClashR-Windows.7z)
 - ...
 
 ## 获取订阅
 
 此处将显示您的订阅链接，请注意为登录状态：
 
-[cinwell website](/sublink?type=clash ':include :type=markdown')
+[cinwell website](/sublink?type=clashr ':include :type=markdown')
 
 !> 这个 **订阅链接** 非常重要，你应当把它当做密码一样妥善保管。
 
-## 配置 Clash for Windows
+## 配置 ClashR for Windows
 
-打开 Clash for Windows，从任务栏点击 Clash for Windows 图标以显示主页面。
+打开 ClashR for Windows，从任务栏点击 ClashR for Windows 图标以显示主页面。
 
 ![1](https://i.loli.net/2020/02/07/uIbnVJtsChfc1zA.png ':size=600')
 
@@ -31,7 +31,7 @@ Clash for Windows 是一个拥有 GUI 界面基于 Clash 可自定义规则的 W
 
 当Download变成Success，表示已经下载完成，选中刚刚下载的配置文件。
 
-![3](https://i.loli.net/2020/02/07/9oM4EZjmshBV2pW.png ':size=600')
+![3](https://i.loli.net/2020/02/07/2L4nwsTJqDIgdUu.png ':size=600')
 
 随后从侧边栏回到 **General**，勾选下方的 **System Proxy** (设为系统代理) 以及 **Auto Launch** (开机自启)。
 
@@ -39,7 +39,7 @@ Clash for Windows 是一个拥有 GUI 界面基于 Clash 可自定义规则的 W
 
 ## 开始使用
 
-打开 Clash for Windows，从侧边栏进入 **Proxies**，上方选择 **Rule**，然后在下方的 **Proxy 策略组** 中选择 AUTO 或者你中意的节点即可。
+打开 ClashR for Windows，从侧边栏进入 **Proxies**，上方选择 **Rule**，然后在下方的 **Proxy 策略组** 中选择 AUTO 或者你中意的节点即可。
 
 ## 其他注意
 

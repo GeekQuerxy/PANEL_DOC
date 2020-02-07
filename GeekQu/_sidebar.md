@@ -21,6 +21,7 @@
   * [在 ShadowsocksD 上配置](Windows/ShadowsocksD.md)
   * [在 ShadowsocksR 上配置](Windows/ShadowsocksR.md)
   * [在 Clash for Windows 上配置](Windows/Clash-for-Windows.md)
+  * [在 ClashR for Windows 上配置](Windows/ClashR-for-Windows.md)
 
 * macOS
 
