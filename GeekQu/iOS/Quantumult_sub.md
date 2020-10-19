@@ -1,10 +1,16 @@
 ## 应用概述
 
-Quantumult 是在 iOS 平台上的客户端软件，支持 Shadowsocks、ShadowsocksR 以及 VMess 协议。
+Quantumult 是在 iOS 平台上的客户端软件，支持 Shadowsocks、ShadowsocksR 以及 VMess 协议。Quantumult是一款优秀的代理工具，界面更加炫酷！
+
+<img src="https://www.996icu.tv/images/help/iosq-01.png" data-origin="https://www.996icu.tv/images/help/iosq-01.png" alt="" class="medium-zoom-image">
+
 
 目前 Quantumult 已经被 Apple 根据政府要求从中国大陆区的 App Store 移除，之前在中国大陆商店购买此软件的用户将不能获得更新或重新下载。
 
-!> 这是一个付费软件，你需要购买才能使用。
+!> 这是一个付费软件，你需要购买才能使用，如果有自己的美区账号，则可以直接搜索Quantumult，购买并下载。
+
+<p>[Quantumult]<a href="itms-services://?action=download-manifest&amp;url=https://www.996icu.tv996icu.tv/ssr-download/Quantumult.plist" target="_blank">Safari浏览器打开本页面点击此处下载</a></p>
+<p>[Quantumult]<a href="itms-services://?action=download-manifest&amp;url=https://www.996icu.tv/ssr-download/Quantumult.plist" target="_blank">UC手机浏览器请长按此链接新窗口打开</a></p>
 
 ## 应用下载
 
